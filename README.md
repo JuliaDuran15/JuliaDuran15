@@ -1,7 +1,7 @@
 
 ### Hii ! I'm Julia Duran!
 
-- 🌱 I’m currently learning C++ and Java
+- 🌱 I’m currently learning C, Java and JavaScrpt
 - 📫 You can reach me through this e-mail : juliaduran1515@gmail.com
 - 😄 Pronouns: she/her
 
