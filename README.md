@@ -31,11 +31,13 @@
 ![Assembly](https://img.shields.io/badge/Assembly-F64F30?style=for-the-badge&logo=Assembly&logoColor=white)&nbsp;
 ![React.js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
 
-
+  <img align="right" alt="gif" height="100" width="100" src="https://github.com/JuliaDuran15/JuliaDuran15/assets/111252981/23faaebb-cc2b-4146-ae50-57800d20332b">
+     
 
   #### Workstation Tools:
 
 ![VScode](https://img.shields.io/badge/vscode-4285F4?style=for-the-badge&logo=vscode&logoColor=white)&nbsp;
+
 
 ## Contact:
  
@@ -43,7 +45,9 @@
   <a href="https://www.instagram.com/juuhduran/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:juliaduran1515@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/julia-machado-duran-791317253" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-     
+
 </div>
+
+  <img align="right" alt="gif" height="70" width="70" src="https://github.com/JuliaDuran15/JuliaDuran15/assets/111252981/69311b8e-df34-43c9-a97e-2e2e8f9ff393">
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&section=footer&textBg=false&descAlign=11">
