@@ -6,16 +6,9 @@
 🎓 Estudante de Engenharia da Computação na <strong>PUC-Campinas</strong> <br>
 💡 Apaixonada por desenvolvimento web, computação científica e inovação <br>
 🌱 Atualmente aprendendo <strong>C</strong>, <strong>Java</strong> e <strong>JavaScript</strong> <br>
-📫 <strong>Email:</strong> juliaduran1515@gmail.com &nbsp; • &nbsp; <strong>Pronouns:</strong> she/her
+📫 <strong>Email:</strong> juliaduran1515@gmail.com &nbsp; • &nbsp; <strong>Pronouns:</strong> she/her <br>
+
 </p>
-
----
-
-### 🚀 Sobre mim
-
-Sou estudante de Engenharia da Computação com interesse em desenvolvimento de software, ciência de dados e tecnologias que transformam ideias em soluções reais. Curiosa, comunicativa e dedicada, gosto de colaborar em projetos que desafiem minha criatividade e ampliem meu conhecimento.
-
-Atualmente, desenvolvo projetos com foco em web, gráficos científicos e aplicações em GPU. Sempre em busca de evolução 🚀
 
 ---
 
@@ -46,7 +39,6 @@ Atualmente, desenvolvo projetos com foco em web, gráficos científicos e aplica
 
 ---
 
-
 ### 📈 GitHub Stats
 
 <div align="center">
@@ -76,6 +68,11 @@ Atualmente, desenvolvo projetos com foco em web, gráficos científicos e aplica
 
 <img align="right" alt="animated-gif" height="100" width="100" src="https://github.com/JuliaDuran15/JuliaDuran15/assets/111252981/23faaebb-cc2b-4146-ae50-57800d20332b"/>
 
+
+
 ---
 
+✨❀*:･ﾟ✧ Obrigada por visitar meu perfil! *:･ﾟ✧❀✨
+
+---
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&section=footer"/>
