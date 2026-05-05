@@ -42,9 +42,30 @@
 ### 📈 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JuliaDuran15&show_icons=true&theme=dracula" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuliaDuran15&layout=compact&theme=dracula" />
+
+<!-- Streak Stats -->
+<img height="180em" src="https://streak-stats.demolab.com/?user=JuliaDuran15&theme=dracula&hide_border=true" />
+
+<!-- WakaTime / Activity Graph -->
+<img height="180em" src="https://github-readme-activity-graph.vercel.app/graph?username=JuliaDuran15&theme=dracula&hide_border=true&area=true" />
+
 </div>
+
+<div align="center">
+
+<!-- Top Languages via alternative -->
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JuliaDuran15&theme=dracula" />
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JuliaDuran15&theme=dracula" />
+
+</div>
+
+<div align="center">
+
+<!-- Profile Summary Card (substituto do readme-stats) -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JuliaDuran15&theme=dracula" />
+
+</div>
+
 
 ---
 
