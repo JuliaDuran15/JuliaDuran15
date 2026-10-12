@@ -17,6 +17,7 @@
 
 - 🏢 Estagiária de **Implementação de Sistemas** na **Siemens**, trabalhando com integração entre sistemas corporativos (SOAP, Web Services, XML e MDM)
 - 🔬 Faço **Iniciação Científica em Fotônica Integrada** na PUC-Campinas: crio gráficos interativos para análise de espectros e acelero simulações em GPU com **CuPy**
+- 🎯 No TCC, desenvolvi o **SIRS**, um sistema de recrutamento que usa NLP e busca vetorial para ranquear currículos
 - 💡 Gosto de desenvolvimento web, computação científica e de entender como os sistemas conversam entre si
 - 🐧 Cada vez mais confortável no terminal Linux
 
@@ -26,7 +27,8 @@
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,java,js,ts,py,php,postgres&theme=dark" /><br/>
-  <img src="https://skillicons.dev/icons?i=react,vue,laravel,git,linux,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=react,vue,laravel,fastapi,tailwind&theme=dark" /><br/>
+  <img src="https://skillicons.dev/icons?i=docker,redis,git,linux,vscode&theme=dark" />
 </p>
 
 <p align="center">
@@ -49,6 +51,29 @@
 
 <table align="center">
   <tr>
+    <td colspan="2" valign="top">
+      <a href="https://github.com/JuliaDuran15/SIRS-Sistema-Inteligente-de-Recrutamento-e-Selecao"><b>🎯 SIRS — Sistema Inteligente de Recrutamento e Seleção</b></a> &nbsp;<sub><code>TCC</code></sub><br/>
+      <sub>Plataforma web que automatiza a triagem de candidatos com NLP semântico em três camadas: embeddings multilíngues por seção do currículo, extração estrutural (experiência, senioridade, skills) e reranking com cross-encoder. Também tem análise de mercado em tempo real, pipeline de entrevistas, controle de acesso por papel e webhook para importar dados de outros sistemas.</sub><br/><br/>
+      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+      <img src="https://img.shields.io/badge/PostgreSQL_+_pgvector-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+      <img src="https://img.shields.io/badge/Celery_+_Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
+      <img src="https://img.shields.io/badge/Sentence_Transformers-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">
+      <a href="https://github.com/JuliaDuran15/Clinica_project"><b>🧠 Clínica de Psicologia</b></a><br/>
+      <sub>Sistema web de gestão para clínica de psicologia, com login e interface próprios para pacientes, psicólogos e secretaria, cada perfil com suas permissões. Inclui cadastro com controle de acesso, notificações desktop via Electron integradas aos controllers do Laravel, e deploy em containers com Docker Swarm.</sub><br/><br/>
+      <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
+      <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
+      <img src="https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white" />
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+      <img src="https://img.shields.io/badge/Docker_Swarm-2496ED?style=flat-square&logo=docker&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <a href="https://github.com/JuliaDuran15/Sudoku_Assembly-16bits-"><b>🧩 Sudoku em Assembly</b></a><br/>
       <sub>Sudoku jogável em Assembly x86 de 16 bits</sub>
@@ -66,16 +91,6 @@
     <td valign="top">
       <a href="https://github.com/JuliaDuran15/Neo4jTryOut"><b>🕸️ Neo4jTryOut</b></a><br/>
       <sub>Experimentos com banco de grafos e Cypher</sub>
-    </td>
-  </tr>
-  <tr>
-    <td valign="top">
-      <a href="https://github.com/JuliaDuran15/Calculadora_simples"><b>🧮 Calculadora em Assembly</b></a><br/>
-      <sub>Calculadora escrita em Assembly</sub>
-    </td>
-    <td valign="top">
-      <a href="https://github.com/JuliaDuran15/Portifolio_front"><b>🎨 Portfólio</b></a><br/>
-      <sub>Meu portfólio front-end</sub>
     </td>
   </tr>
 </table>
