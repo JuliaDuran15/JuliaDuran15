@@ -1,7 +1,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=160&color=0:ff79c6,100:bd93f9&section=header&text=Júlia%20Duran&fontSize=44&fontColor=ffffff&fontAlignY=36&desc=Engenharia%20da%20Computação%20•%20PUC-Campinas&descSize=16&descAlignY=58&animation=fadeIn"/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=FF79C6&center=true&vCenter=true&width=620&lines=Ol%C3%A1%2C+mundo!+%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB;Estagi%C3%A1ria+de+Implementa%C3%A7%C3%A3o+de+Sistemas+%40+Siemens;Pesquisadora+em+Fot%C3%B4nica+Integrada;Integra%C3%A7%C3%A3o+de+sistemas+%2B+computa%C3%A7%C3%A3o+cient%C3%ADfica" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=FF79C6&center=true&vCenter=true&width=620&lines=Ol%C3%A1%2C+mundo!+%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB;Estagi%C3%A1ria+de+Implementa%C3%A7%C3%A3o+de+Sistemas+%40+Siemens;Integra%C3%A7%C3%A3o+de+sistemas+%2B+computa%C3%A7%C3%A3o+cient%C3%ADfica" alt="Typing SVG" />
 </p>
 
 <p align="center">
