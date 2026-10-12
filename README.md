@@ -75,22 +75,27 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/JuliaDuran15/Sudoku_Assembly-16bits-"><b>🧩 Sudoku em Assembly</b></a><br/>
-      <sub>Sudoku jogável em Assembly x86 de 16 bits</sub>
+      <a href="https://github.com/JuliaDuran15/projeto_SO"><b>🐧 Módulos de Kernel Linux</b></a><br/>
+      <sub>Dois módulos de kernel em C: o <code>kfetch</code> expõe informações do sistema em <code>/dev/kfetch</code> com filtro por máscara, e o <code>risk_module</code> classifica o risco de um processo pelo tempo de CPU via <code>/proc</code>.</sub><br/><br/>
+      <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" />
+      <img src="https://img.shields.io/badge/Linux_Kernel-FCC624?style=flat-square&logo=linux&logoColor=black" />
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/JuliaDuran15/SustenLin"><b>🌱 SustenLin</b></a><br/>
-      <sub>Projeto web em JavaScript</sub>
+      <a href="https://github.com/JuliaDuran15/Compilador"><b>⚙️ Compilador</b></a><br/>
+      <sub>Compilador escrito do zero em Java, com analisador léxico, analisador sintático e tabela de símbolos, testado com uma bateria de programas de exemplo.</sub><br/><br/>
+      <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white" />
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <a href="https://github.com/JuliaDuran15/site-facul"><b>🏫 site-facul</b></a><br/>
-      <sub>Site em PHP desenvolvido na faculdade</sub>
+      <a href="https://github.com/JuliaDuran15/Sudoku_Assembly-16bits-"><b>🧩 Sudoku em Assembly</b></a><br/>
+      <sub>Sudoku jogável em Assembly x86 de 16 bits.</sub><br/><br/>
+      <img src="https://img.shields.io/badge/Assembly_x86-654FF0?style=flat-square&logo=intel&logoColor=white" />
     </td>
     <td valign="top">
-      <a href="https://github.com/JuliaDuran15/Neo4jTryOut"><b>🕸️ Neo4jTryOut</b></a><br/>
-      <sub>Experimentos com banco de grafos e Cypher</sub>
+      <a href="https://github.com/JuliaDuran15/SustenLin"><b>🌱 SustenLin</b></a><br/>
+      <sub>Projeto web em JavaScript.</sub><br/><br/>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
     </td>
   </tr>
 </table>
